@@ -1,8 +1,8 @@
 # Red Team RCE
 # Remote code execution guide for Red Teaming
 
-Note: Attacking machine IP: 192.168.100.42
-      Victim machine IP: 192.168.100.14
+Note: Attacking machine IP: 192.168.100.42 (Kali/Ubuntu VM)
+      Victim machine IP: 192.168.100.14 (Windows 10 Pro VM)
 
 ## Malicious hta file:
 
